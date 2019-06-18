@@ -1,2 +1,2 @@
 # DataStructAndAlgorithm
-For Javascript
+For data struct and algorithm, use Javascript language.
